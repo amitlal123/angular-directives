@@ -1,0 +1,19 @@
+{
+  "name": "lesson-hider-directive",
+  "version": "1.0.0",
+  "description": "Directive that modifies a template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitlal123/lesson-hider-directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitlal123/lesson-hider-directive/issues"
+  },
+  "homepage": "https://github.com/amitlal123/lesson-hider-directive#readme"
+}
