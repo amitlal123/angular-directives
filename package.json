@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitlal123/lesson-hider-directive.git"
+    "url": "git+https://github.com/amitlal123/angular-directive.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amitlal123/lesson-hider-directive/issues"
+    "url": "https://github.com/amitlal123/angular-directive/issues"
   },
-  "homepage": "https://github.com/amitlal123/lesson-hider-directive#readme"
+  "homepage": "https://github.com/amitlal123/angular-directive#readme"
 }
